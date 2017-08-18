@@ -57,11 +57,11 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 +++
 
 ### Simply because....
-<li class="fragment">It's <em2>Distributed.</em2></li>
+<li>It's <em2>Distributed.</em2></li>  <!-- .element: class="fragment" -->
 - It's Fast  |
-<li class="fragment">Powerful <em2>branching</em2></li>
+<li>Powerful <em2>branching</em2></li>  <!-- .element: class="fragment" -->
 - Lets the developer work how he wants to  |
-<li class="fragment">Powerful <em2>staging environments</em2></li>
+<li>Powerful <em2>staging environments</em2></li>  <!-- .element: class="fragment" -->
 
 Note:
 With Git each person that works on a project has their own copy of the whole history of the project
